@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoMinififuresInheritance", "LegoMinififuresInheritance\LegoMinififuresInheritance.csproj", "{9E3673E6-A108-420C-806D-00F62B7A7908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3673E6-A108-420C-806D-00F62B7A7908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3673E6-A108-420C-806D-00F62B7A7908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3673E6-A108-420C-806D-00F62B7A7908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3673E6-A108-420C-806D-00F62B7A7908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FDA6D7-B800-446D-BCFE-5E15E7232970}
+	EndGlobalSection
+EndGlobal
